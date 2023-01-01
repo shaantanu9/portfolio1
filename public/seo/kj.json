@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "Shodkk",
+  "url": "https://www.shodkk.com/",
+  "logo": "https://www.shodkk.com/images/logo.png",
+  "description": "Shodkk is a leading digital marketing agency in India. We provide digital marketing services like SEO, SMO, PPC, ORM, Content Marketing, Email Marketing, Web Designing, Web Development, Mobile App Development, and many more digital marketing solu",
+  "founder": [
+    {
+      "@type": "Person",
+      "name": "Shantanu Bombatkar",
+      "url": "https://in.linkedin.com/in/shantanu-bombatkar"
+    }
+  ],
+  "sameAs": [
+    "https://www.facebook.com/shodkk/",
+    "https://twitter.com/",
+    "https://www.linkedin.com/company/1299009",
+    "https://www.youtube.com/"
+  ]
+}

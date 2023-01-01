@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Pravassy | Blog | Your Personal Travel Guide </ShortName>
+<Description> Travel The World </Description>
+<Tags>Travel Tech Blog</Tags>
+<Image height="16" width="16" type="image/vnd.microsoft.icon">https://Pravassy.com/favicon.ico</Image>
+<Url type="text/html" template="https://Pravassy.com/search?q={searchTerms}"/>
+<Query role="example" searchTerms="tool"/>
+</OpenSearchDescription>

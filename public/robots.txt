@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://pravassy.com
+
+# Sitemaps
+Sitemap: https://pravassy.com/sitemap.xml
